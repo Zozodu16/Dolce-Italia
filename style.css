@@ -18,7 +18,8 @@ nav ul li {
     margin: 0 15px;
 }
 nav ul li a {
-    color: light blue;
+    background-color: #BCB8C9
+    color: lilac purple;
     text-decoration: none;
 }
 
